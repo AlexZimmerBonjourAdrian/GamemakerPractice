@@ -1,0 +1,27 @@
+{
+  "FolderOrderSettings": [
+    {"name":"Conjuntos de casillas","order":1,"path":"folders/Conjuntos de casillas.yy",},
+    {"name":"Curvas de animación","order":11,"path":"folders/Curvas de animación.yy",},
+    {"name":"Extensiones","order":13,"path":"folders/Extensiones.yy",},
+    {"name":"Fuentes","order":6,"path":"folders/Fuentes.yy",},
+    {"name":"Líneas temporales","order":7,"path":"folders/Líneas temporales.yy",},
+    {"name":"Notas","order":12,"path":"folders/Notas.yy",},
+    {"name":"Objetos","order":8,"path":"folders/Objetos.yy",},
+    {"name":"Particle Systems","order":14,"path":"folders/Particle Systems.yy",},
+    {"name":"Rutas","order":3,"path":"folders/Rutas.yy",},
+    {"name":"Salas","order":9,"path":"folders/Salas.yy",},
+    {"name":"Scripts","order":4,"path":"folders/Scripts.yy",},
+    {"name":"Secuencias","order":10,"path":"folders/Secuencias.yy",},
+    {"name":"Shaders","order":5,"path":"folders/Shaders.yy",},
+    {"name":"Sonidos","order":2,"path":"folders/Sonidos.yy",},
+  ],
+  "ResourceOrderSettings": [
+    {"name":"spr_player","order":1,"path":"sprites/spr_player/spr_player.yy",},
+    {"name":"spr_rock_big","order":2,"path":"sprites/spr_rock_big/spr_rock_big.yy",},
+    {"name":"Object3","order":3,"path":"objects/Object3/Object3.yy",},
+    {"name":"Object2","order":2,"path":"objects/Object2/Object2.yy",},
+    {"name":"Object","order":1,"path":"objects/Object/Object.yy",},
+    {"name":"Globant","order":4,"path":"objects/Globant/Globant.yy",},
+    {"name":"spr_rock_small","order":3,"path":"sprites/spr_rock_small/spr_rock_small.yy",},
+  ],
+}
